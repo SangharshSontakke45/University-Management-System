@@ -1,0 +1,6 @@
+Student Management → Registration, personal details, academic records.
+Faculty Management → Faculty profiles, course assignments, schedules.
+Course & Subject Management → Course creation, enrollment, tracking.
+Login & Authentication → Separate access for Admin, Faculty, and Students.
+Reports & Dashboards → Visual insights into admissions, course performance, faculty workload.
+Automation → Workflows for approvals, email notifications, and attendance tracking.
